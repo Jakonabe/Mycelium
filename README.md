@@ -232,7 +232,7 @@ This is just the moment you recognized it.
 
 ## 📫 Contact / Contribute
 
-This lives at: `github.com/[your-username]/mycelium` (when you're ready to push)
+This lives at: `github.com/Jakonabe/mycelium` (when you're ready to push)
 
 All other repositories are branches of this same organism.
 
